@@ -127,7 +127,7 @@ public class BarTest {
 		b.validaEntrada(c3);
 		b.validaEntrada(c4);
 		b.validaEntrada(c5);
-		int s = 13;
+		int s = 2;
 		assertEquals(b.quantosNsocios(), s);
 		
 	}
