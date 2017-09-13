@@ -1,0 +1,19 @@
+Arquivo gravado em : 08/09/2017 05:52:08
+Total de Clientes: 10 Clientes
+Percentual de público feminino: 70.0%
+Percentual de público masculino: 30.0%
+Total de socios: 5
+Total de não socios: 5
+=========================== Clientes no Bar =======================
+Tati Quebra Barraco| Cpf: 456456456| Nº Socio:454564| Idade: 43 anos => Feminino
+Marcelo| Cpf: 94854954874| Nº Socio:9495849| Idade: 24 anos => Masculino
+Bibiana| Cpf: 345345345| Nº Socio:0| Idade: 53 anos => Feminino
+Robson| Cpf: 76425584068| Nº Socio:0| Idade: 24 anos => Masculino
+Karen| Cpf: 00948409584| Nº Socio:0| Idade: 21 anos => Feminino
+Amarildo| Cpf: 20293839409| Nº Socio:454545| Idade: 25 anos => Masculino
+Guilhermina| Cpf: 455456456| Nº Socio:34343434| Idade: 34 anos => Feminino
+Claudia| Cpf: 003949049| Nº Socio:0| Idade: 23 anos => Feminino
+Luciana| Cpf: 56756756| Nº Socio:0| Idade: 34 anos => Feminino
+Patricia| Cpf: 45646456| Nº Socio:8859656| Idade: 32 anos => Feminino
+
+Tempo de gravação: 35ms.
